@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400");
+body, html {
+  height: 100%;
+  font-family: 'Roboto', sans-serif; }
+
+.comment-header {
+  background-color: #e4e4e4;
+  font-weight: 400;
+  height: 40%;
+  overflow-y: scroll; }
+
+.comment {
+  padding: 25px 0;
+  border-top: solid 2px black; }
+
+/*# sourceMappingURL=main.css.map */
